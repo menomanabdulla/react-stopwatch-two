@@ -1,0 +1,12 @@
+.digit-block{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    display: inline-block;
+}
+.digit-block h1{
+    line-height: 150px
+}

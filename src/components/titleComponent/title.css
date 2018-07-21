@@ -1,0 +1,19 @@
+.title{
+    width: 500px;
+}
+.title .edit-icon{
+    opacity: 0;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.title:hover .edit-icon{
+    opacity: 1;
+}
+
+.title input{
+    padding: 15px 8px;
+    width: 100%;
+    font-size: 22px;
+    font-weight: 600;
+}
